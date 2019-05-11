@@ -5,3 +5,4 @@
 WebAnno is a general purpose web-based annotation tool for a wide range of linguistic annotations.
 
 For more information, visit the [WebAnno website](https://webanno.github.io/webanno/).
+### this is a fork of webanno, for adding additional features, like autotagging
